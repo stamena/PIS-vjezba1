@@ -10,7 +10,11 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             Console.WriteLine("Toni Stamenković.");
+
             Console.WriteLine("Lokalna linija");
+
+            Console.WriteLine("Uzurpirao sam ti kod.\n");
+
         }
     }
 }
